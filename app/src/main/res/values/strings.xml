@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Mobile Grupo v1.0</string>
+
+    <string name="lbl_grupo_shark">GRUPO SHARK</string>
+    <string name="lbl_menu">MENU</string>
+    <string name="btn_liberacao">Liberação</string>
+    <string name="btn_sair">Sair</string>
+    <string name="hint_filial">Filial</string>
+    <string name="hint_valor">R$0,00</string>
+    <string name="hint_grupo">Grupo</string>
+    <string name="lbl_liberacao_vendas">Liberação Vendas</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="lbl_grupo">Grupo</string>
+    <string name="lbl_filial">Filial</string>
+    <string name="lbl_cliente">Cliente</string>
+    <string name="lbl_detalhe_liberacao">Detalhe Liberação</string>
+    <string name="lbl_informacao_pedido">Informação Pedido</string>
+    <string name="btn_detalhar">Detalhar</string>
+    <string name="btn_rejeitar">Rejeitar</string>
+    <string name="btn_Liberar">Liberar</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="lbl_login">Login</string>
+    <string name="hint_usuario" />
+    <string name="hint_senha" />
+    <string name="lbl_erro">ERRO</string>
+
+    <string name="lbl_cpo01">CPO01</string>
+    <string name="lbl_cpo02">CPO02</string>
+    <string name="lbl_cpo03">CPO03</string>
+    <string name="lbl_cpo04">CPO04</string>
+    <string name="lbl_cpo05">CPO05</string>
+    <string name="lbl_cpo06">CPO06</string>
+    <string name="lbl_cpo07">CPO07</string>
+    <string name="lbl_cpo08">CPO08</string>
+    <string name="lbl_cpo09">CPO09</string>
+    <string name="lbl_cpo10">CPO10</string>
+    <string name="lbl_cpo11">CPO11</string>
+    <string name="lbl_cpo12">CPO12</string>
+    <string name="lbl_cpo13">CPO13</string>
+    <string name="lbl_cpo14">CPO14</string>
+    <string name="lbl_cpo15">CPO15</string>
+    <string name="lbl_cpo16">CPO16</string>
+    <string name="lbl_cpo17">CPO17</string>
+    <string name="lbl_cpo18">CPO18</string>
+    <string name="lbl_cpo19">CPO19</string>
+    <string name="lbl_cpo20">CPO20</string>
+    <string name="lbl_cpo21">CPO21</string>
+    <string name="lbl_cpo22">CPO22</string>
+    <string name="lbl_cpo23">CPO23</string>
+    <string name="lbl_cpo24">CPO24</string>
+    <string name="lbl_cpo25">CPO25</string>
+    <string name="lbl_cpo26">CPO26</string>
+    <string name="lbl_cpo27">CPO27</string>
+    <string name="lbl_cpo28">CPO28</string>
+
+</resources>

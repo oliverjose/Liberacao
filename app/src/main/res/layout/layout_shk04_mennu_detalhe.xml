@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo01"
+        android:id="@+id/textViewSHK04CPO01Item"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo02"
+        android:id="@+id/textViewSHK04CPO02Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo03"
+        android:id="@+id/textViewSHK04CPO03Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo04"
+        android:id="@+id/textViewSHK04CPO04Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:textSize="13dp"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo05"
+        android:id="@+id/textViewSHK04CPO05Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo06"
+        android:id="@+id/textViewSHK04CPO06Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo07"
+        android:id="@+id/textViewSHK04CPO07Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo08"
+        android:id="@+id/textViewSHK04CPO08Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo09"
+        android:id="@+id/textViewSHK04CPO09Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo10"
+        android:id="@+id/textViewSHK04CPO10Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo11"
+        android:id="@+id/textViewSHK04CPO11Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo12"
+        android:id="@+id/textViewSHK04CPO12Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo13"
+        android:id="@+id/textViewSHK04CPO13Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo14"
+        android:id="@+id/textViewSHK04CPO14Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo21"
+        android:id="@+id/textViewSHK04CPO21Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo22"
+        android:id="@+id/textViewSHK04CPO22Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo23"
+        android:id="@+id/textViewSHK04CPO23Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo24"
+        android:id="@+id/textViewSHK04CPO24Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo25"
+        android:id="@+id/textViewSHK04CPO25Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo26"
+        android:id="@+id/textViewSHK04CPO26Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo27"
+        android:id="@+id/textViewSHK04CPO27Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo15"
+        android:id="@+id/textViewSHK04CPO15Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo16"
+        android:id="@+id/textViewSHK04CPO16Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo17"
+        android:id="@+id/textViewSHK04CPO17Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo18"
+        android:id="@+id/textViewSHK04CPO18Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo19"
+        android:id="@+id/textViewSHK04CPO19Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo19"
+        android:id="@+id/textViewSHK04CPO20Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
+    <TextView
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lbl_cpo28"
+        android:id="@+id/textViewSHK04CPO28Item"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:layout_rowWeight="1"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
